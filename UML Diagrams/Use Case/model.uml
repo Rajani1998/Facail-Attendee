@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_6H3y4ETSEem6pvvLzEV1cw" name="model">
+  <packagedElement xmi:type="uml:Actor" xmi:id="_WT4VoETTEem6pvvLzEV1cw" name="Admin"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_eFM84ETTEem6pvvLzEV1cw" name="Manage Regular User"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_gx_6UETTEem6pvvLzEV1cw" name="Manage Attendence Sheet"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_k2g4oETTEem6pvvLzEV1cw" name="Manage Regular User Records"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_nxYuUETTEem6pvvLzEV1cw" name="Take Attendence"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_qOfp8ETTEem6pvvLzEV1cw" name="Regular User"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_sGZmwETTEem6pvvLzEV1cw" name="View Regular User Attendence Record"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_vjgm0ETTEem6pvvLzEV1cw" name="Report Incorrect Attendence Report"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_0Vz4METTEem6pvvLzEV1cw" name="A_admin_manage regular user" memberEnd="_0Vz4MUTTEem6pvvLzEV1cw _0Vz4NETTEem6pvvLzEV1cw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_0Vz4MUTTEem6pvvLzEV1cw" name="admin" type="_WT4VoETTEem6pvvLzEV1cw" association="_0Vz4METTEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_0Vz4MkTTEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_0Vz4M0TTEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_0Vz4NETTEem6pvvLzEV1cw" name="manage regular user" type="_eFM84ETTEem6pvvLzEV1cw" association="_0Vz4METTEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_0Vz4NUTTEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_0Vz4NkTTEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2rxC8ETTEem6pvvLzEV1cw" name="A_admin_manage attendence sheet" memberEnd="_2rxC8UTTEem6pvvLzEV1cw _2rxC9ETTEem6pvvLzEV1cw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_2rxC8UTTEem6pvvLzEV1cw" name="admin" type="_WT4VoETTEem6pvvLzEV1cw" association="_2rxC8ETTEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2rxC8kTTEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2rxC80TTEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_2rxC9ETTEem6pvvLzEV1cw" name="manage attendence sheet" type="_gx_6UETTEem6pvvLzEV1cw" association="_2rxC8ETTEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2rxC9UTTEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2rxC9kTTEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_8XsD8ETTEem6pvvLzEV1cw" name="A_manage regular user_manage regular user records" memberEnd="_8XsD8UTTEem6pvvLzEV1cw _8XsD9ETTEem6pvvLzEV1cw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_8XsD8UTTEem6pvvLzEV1cw" name="manage regular user" type="_eFM84ETTEem6pvvLzEV1cw" association="_8XsD8ETTEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8XsD8kTTEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8XsD80TTEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_8XsD9ETTEem6pvvLzEV1cw" name="manage regular user records" type="_k2g4oETTEem6pvvLzEV1cw" association="_8XsD8ETTEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8XsD9UTTEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8XsD9kTTEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_AQ_30ETUEem6pvvLzEV1cw" name="A_manage attendence sheet_take attendence" memberEnd="_AQ_30UTUEem6pvvLzEV1cw _AQ_31ETUEem6pvvLzEV1cw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_AQ_30UTUEem6pvvLzEV1cw" name="manage attendence sheet" type="_gx_6UETTEem6pvvLzEV1cw" association="_AQ_30ETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_AQ_30kTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_AQ_300TUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_AQ_31ETUEem6pvvLzEV1cw" name="take attendence" type="_nxYuUETTEem6pvvLzEV1cw" association="_AQ_30ETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_AQ_31UTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_AQ_31kTUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_BzdJEETUEem6pvvLzEV1cw" name="View Regular User Attendence"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_FL8u4ETUEem6pvvLzEV1cw" name="A_manage regular user_view regular user attendence" memberEnd="_FL8u4UTUEem6pvvLzEV1cw _FL8u5ETUEem6pvvLzEV1cw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_FL8u4UTUEem6pvvLzEV1cw" name="manage regular user" type="_eFM84ETTEem6pvvLzEV1cw" association="_FL8u4ETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FL8u4kTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FL8u40TUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_FL8u5ETUEem6pvvLzEV1cw" name="view regular user attendence" type="_BzdJEETUEem6pvvLzEV1cw" association="_FL8u4ETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FL8u5UTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FL8u5kTUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_GuHFMETUEem6pvvLzEV1cw" name="Validate Attendence"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_MKfOUETUEem6pvvLzEV1cw" name="A_manage attendence sheet_validate attendence" memberEnd="_MKfOUUTUEem6pvvLzEV1cw _MKfOVETUEem6pvvLzEV1cw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_MKfOUUTUEem6pvvLzEV1cw" name="manage attendence sheet" type="_gx_6UETTEem6pvvLzEV1cw" association="_MKfOUETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_MKfOUkTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_MKfOU0TUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_MKfOVETUEem6pvvLzEV1cw" name="validate attendence" type="_GuHFMETUEem6pvvLzEV1cw" association="_MKfOUETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_MKfOVUTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_MKfOVkTUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_OpfnYETUEem6pvvLzEV1cw" name="A_regular user_report incorrect attendence report" memberEnd="_OpfnYUTUEem6pvvLzEV1cw _OpfnZETUEem6pvvLzEV1cw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_OpfnYUTUEem6pvvLzEV1cw" name="regular user" type="_qOfp8ETTEem6pvvLzEV1cw" association="_OpfnYETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_OpfnYkTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_OpfnY0TUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_OpfnZETUEem6pvvLzEV1cw" name="report incorrect attendence report" type="_vjgm0ETTEem6pvvLzEV1cw" association="_OpfnYETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_OpfnZUTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_OpfnZkTUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_Qdsv8ETUEem6pvvLzEV1cw" name="A_regular user_view regular user attendence record" memberEnd="_Qdsv8UTUEem6pvvLzEV1cw _Qdsv9ETUEem6pvvLzEV1cw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Qdsv8UTUEem6pvvLzEV1cw" name="regular user" type="_qOfp8ETTEem6pvvLzEV1cw" association="_Qdsv8ETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Qdsv8kTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Qdsv80TUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Qdsv9ETUEem6pvvLzEV1cw" name="view regular user attendence record" type="_sGZmwETTEem6pvvLzEV1cw" association="_Qdsv8ETUEem6pvvLzEV1cw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Qdsv9UTUEem6pvvLzEV1cw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Qdsv9kTUEem6pvvLzEV1cw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>
