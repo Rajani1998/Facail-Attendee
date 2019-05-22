@@ -1,0 +1,500 @@
+./pre_img\Ali Hussam\frame0.png 242 99 345 235
+./pre_img\Ali Hussam\frame1.png 246 97 342 229
+./pre_img\Ali Hussam\frame10.png 256 108 361 246
+./pre_img\Ali Hussam\frame11.png 252 105 362 241
+./pre_img\Ali Hussam\frame12.png 254 88 362 226
+./pre_img\Ali Hussam\frame13.png 245 91 342 220
+./pre_img\Ali Hussam\frame14.png 221 88 318 218
+./pre_img\Ali Hussam\frame15.png 216 91 322 226
+./pre_img\Ali Hussam\frame16.png 231 101 336 235
+./pre_img\Ali Hussam\frame17.png 237 109 347 251
+./pre_img\Ali Hussam\frame18.png 234 105 340 243
+./pre_img\Ali Hussam\frame19.png 243 103 349 239
+./pre_img\Ali Hussam\frame2.png 254 99 348 226
+./pre_img\Ali Hussam\frame20.png 247 90 351 228
+./pre_img\Ali Hussam\frame21.png 246 91 345 217
+./pre_img\Ali Hussam\frame22.png 245 91 343 216
+./pre_img\Ali Hussam\frame23.png 234 92 333 218
+./pre_img\Ali Hussam\frame24.png 233 82 330 211
+./pre_img\Ali Hussam\frame25.png 227 88 326 222
+./pre_img\Ali Hussam\frame26.png 231 92 329 222
+./pre_img\Ali Hussam\frame27.png 229 87 328 222
+./pre_img\Ali Hussam\frame28.png 236 92 333 224
+./pre_img\Ali Hussam\frame29.png 230 95 334 229
+./pre_img\Ali Hussam\frame3.png 249 100 347 227
+./pre_img\Ali Hussam\frame30.png 229 101 337 236
+./pre_img\Ali Hussam\frame31.png 230 101 338 237
+./pre_img\Ali Hussam\frame32.png 232 102 340 241
+./pre_img\Ali Hussam\frame33.png 238 97 340 233
+./pre_img\Ali Hussam\frame34.png 243 91 342 224
+./pre_img\Ali Hussam\frame35.png 243 92 343 228
+./pre_img\Ali Hussam\frame36.png 229 95 337 230
+./pre_img\Ali Hussam\frame37.png 225 94 335 227
+./pre_img\Ali Hussam\frame38.png 225 94 335 230
+./pre_img\Ali Hussam\frame39.png 225 95 334 231
+./pre_img\Ali Hussam\frame4.png 239 100 347 234
+./pre_img\Ali Hussam\frame40.png 223 97 332 232
+./pre_img\Ali Hussam\frame41.png 224 96 334 235
+./pre_img\Ali Hussam\frame42.png 223 93 334 232
+./pre_img\Ali Hussam\frame43.png 229 95 336 233
+./pre_img\Ali Hussam\frame44.png 227 93 334 234
+./pre_img\Ali Hussam\frame45.png 224 95 332 232
+./pre_img\Ali Hussam\frame46.png 221 91 332 232
+./pre_img\Ali Hussam\frame47.png 221 97 331 234
+./pre_img\Ali Hussam\frame48.png 228 100 336 235
+./pre_img\Ali Hussam\frame49.png 223 99 330 240
+./pre_img\Ali Hussam\frame5.png 223 81 334 222
+./pre_img\Ali Hussam\frame6.png 260 90 365 213
+./pre_img\Ali Hussam\frame7.png 289 103 386 229
+./pre_img\Ali Hussam\frame8.png 266 100 364 229
+./pre_img\Ali Hussam\frame9.png 255 104 358 237
+./pre_img\Asim Iqbal\frame0.png 289 189 437 368
+./pre_img\Asim Iqbal\frame1.png 285 188 438 374
+./pre_img\Asim Iqbal\frame10.png 283 164 425 352
+./pre_img\Asim Iqbal\frame11.png 289 166 428 343
+./pre_img\Asim Iqbal\frame12.png 322 162 456 346
+./pre_img\Asim Iqbal\frame13.png 267 169 407 344
+./pre_img\Asim Iqbal\frame14.png 261 161 401 337
+./pre_img\Asim Iqbal\frame15.png 282 179 428 357
+./pre_img\Asim Iqbal\frame16.png 282 187 431 363
+./pre_img\Asim Iqbal\frame17.png 281 151 418 327
+./pre_img\Asim Iqbal\frame18.png 284 161 424 337
+./pre_img\Asim Iqbal\frame19.png 290 165 433 345
+./pre_img\Asim Iqbal\frame2.png 286 190 438 374
+./pre_img\Asim Iqbal\frame20.png 297 170 446 352
+./pre_img\Asim Iqbal\frame21.png 352 174 473 339
+./pre_img\Asim Iqbal\frame22.png 277 174 425 355
+./pre_img\Asim Iqbal\frame23.png 281 170 418 341
+./pre_img\Asim Iqbal\frame24.png 272 159 409 333
+./pre_img\Asim Iqbal\frame25.png 277 176 412 343
+./pre_img\Asim Iqbal\frame26.png 295 179 429 344
+./pre_img\Asim Iqbal\frame27.png 290 178 427 344
+./pre_img\Asim Iqbal\frame28.png 294 182 428 348
+./pre_img\Asim Iqbal\frame29.png 297 172 430 341
+./pre_img\Asim Iqbal\frame3.png 298 187 452 375
+./pre_img\Asim Iqbal\frame30.png 297 178 430 346
+./pre_img\Asim Iqbal\frame31.png 281 181 415 343
+./pre_img\Asim Iqbal\frame32.png 282 160 415 327
+./pre_img\Asim Iqbal\frame33.png 268 155 407 326
+./pre_img\Asim Iqbal\frame34.png 287 180 415 341
+./pre_img\Asim Iqbal\frame35.png 281 181 416 344
+./pre_img\Asim Iqbal\frame36.png 274 179 404 347
+./pre_img\Asim Iqbal\frame37.png 292 206 424 364
+./pre_img\Asim Iqbal\frame38.png 286 180 421 345
+./pre_img\Asim Iqbal\frame39.png 288 186 424 349
+./pre_img\Asim Iqbal\frame4.png 282 181 434 368
+./pre_img\Asim Iqbal\frame40.png 292 180 421 341
+./pre_img\Asim Iqbal\frame41.png 288 183 423 346
+./pre_img\Asim Iqbal\frame42.png 290 184 424 347
+./pre_img\Asim Iqbal\frame43.png 292 187 427 353
+./pre_img\Asim Iqbal\frame44.png 288 183 422 347
+./pre_img\Asim Iqbal\frame45.png 287 184 420 349
+./pre_img\Asim Iqbal\frame46.png 287 184 422 347
+./pre_img\Asim Iqbal\frame47.png 283 182 418 347
+./pre_img\Asim Iqbal\frame48.png 284 186 418 349
+./pre_img\Asim Iqbal\frame49.png 282 189 415 353
+./pre_img\Asim Iqbal\frame5.png 285 215 433 386
+./pre_img\Asim Iqbal\frame6.png 283 155 424 328
+./pre_img\Asim Iqbal\frame7.png 284 165 423 343
+./pre_img\Asim Iqbal\frame8.png 277 156 419 337
+./pre_img\Asim Iqbal\frame9.png 286 163 432 343
+./pre_img\Bilal Un Nabi Khan\frame0.png 246 117 369 263
+./pre_img\Bilal Un Nabi Khan\frame1.png 247 119 371 268
+./pre_img\Bilal Un Nabi Khan\frame10.png 241 128 362 280
+./pre_img\Bilal Un Nabi Khan\frame11.png 252 115 372 271
+./pre_img\Bilal Un Nabi Khan\frame12.png 231 121 362 285
+./pre_img\Bilal Un Nabi Khan\frame13.png 233 114 348 268
+./pre_img\Bilal Un Nabi Khan\frame14.png 250 119 373 271
+./pre_img\Bilal Un Nabi Khan\frame15.png 251 127 372 278
+./pre_img\Bilal Un Nabi Khan\frame16.png 254 113 370 258
+./pre_img\Bilal Un Nabi Khan\frame17.png 258 124 374 268
+./pre_img\Bilal Un Nabi Khan\frame18.png 255 128 368 268
+./pre_img\Bilal Un Nabi Khan\frame19.png 253 127 367 268
+./pre_img\Bilal Un Nabi Khan\frame2.png 249 127 369 275
+./pre_img\Bilal Un Nabi Khan\frame20.png 250 127 366 266
+./pre_img\Bilal Un Nabi Khan\frame21.png 235 125 351 269
+./pre_img\Bilal Un Nabi Khan\frame22.png 242 121 360 265
+./pre_img\Bilal Un Nabi Khan\frame23.png 250 123 366 265
+./pre_img\Bilal Un Nabi Khan\frame24.png 245 118 365 272
+./pre_img\Bilal Un Nabi Khan\frame25.png 253 121 375 276
+./pre_img\Bilal Un Nabi Khan\frame26.png 254 118 377 272
+./pre_img\Bilal Un Nabi Khan\frame27.png 255 125 373 268
+./pre_img\Bilal Un Nabi Khan\frame28.png 254 127 373 272
+./pre_img\Bilal Un Nabi Khan\frame29.png 253 128 372 273
+./pre_img\Bilal Un Nabi Khan\frame3.png 237 115 352 267
+./pre_img\Bilal Un Nabi Khan\frame30.png 256 127 374 275
+./pre_img\Bilal Un Nabi Khan\frame31.png 258 126 377 280
+./pre_img\Bilal Un Nabi Khan\frame32.png 256 124 376 276
+./pre_img\Bilal Un Nabi Khan\frame33.png 264 127 382 279
+./pre_img\Bilal Un Nabi Khan\frame34.png 264 124 374 267
+./pre_img\Bilal Un Nabi Khan\frame35.png 246 114 362 272
+./pre_img\Bilal Un Nabi Khan\frame36.png 251 114 366 272
+./pre_img\Bilal Un Nabi Khan\frame37.png 256 125 374 276
+./pre_img\Bilal Un Nabi Khan\frame38.png 272 123 385 261
+./pre_img\Bilal Un Nabi Khan\frame39.png 265 118 373 250
+./pre_img\Bilal Un Nabi Khan\frame4.png 232 115 341 264
+./pre_img\Bilal Un Nabi Khan\frame40.png 243 113 353 267
+./pre_img\Bilal Un Nabi Khan\frame41.png 244 115 353 260
+./pre_img\Bilal Un Nabi Khan\frame42.png 250 125 368 275
+./pre_img\Bilal Un Nabi Khan\frame43.png 262 127 381 276
+./pre_img\Bilal Un Nabi Khan\frame44.png 251 119 365 260
+./pre_img\Bilal Un Nabi Khan\frame45.png 245 129 360 265
+./pre_img\Bilal Un Nabi Khan\frame46.png 247 129 362 271
+./pre_img\Bilal Un Nabi Khan\frame47.png 244 127 357 265
+./pre_img\Bilal Un Nabi Khan\frame48.png 247 130 360 266
+./pre_img\Bilal Un Nabi Khan\frame49.png 244 128 360 270
+./pre_img\Bilal Un Nabi Khan\frame5.png 258 125 382 279
+./pre_img\Bilal Un Nabi Khan\frame6.png 245 124 371 278
+./pre_img\Bilal Un Nabi Khan\frame7.png 247 128 369 275
+./pre_img\Bilal Un Nabi Khan\frame8.png 298 111 422 280
+./pre_img\Bilal Un Nabi Khan\frame9.png 247 126 372 280
+./pre_img\Fahad Sultan\frame0.png 216 130 316 259
+./pre_img\Fahad Sultan\frame1.png 231 137 343 273
+./pre_img\Fahad Sultan\frame10.png 241 112 351 254
+./pre_img\Fahad Sultan\frame11.png 235 114 347 255
+./pre_img\Fahad Sultan\frame12.png 226 117 343 256
+./pre_img\Fahad Sultan\frame13.png 226 112 346 258
+./pre_img\Fahad Sultan\frame14.png 216 116 328 259
+./pre_img\Fahad Sultan\frame15.png 215 115 318 251
+./pre_img\Fahad Sultan\frame16.png 206 113 320 254
+./pre_img\Fahad Sultan\frame17.png 224 115 331 250
+./pre_img\Fahad Sultan\frame18.png 222 107 339 258
+./pre_img\Fahad Sultan\frame19.png 218 111 336 255
+./pre_img\Fahad Sultan\frame2.png 227 137 344 280
+./pre_img\Fahad Sultan\frame20.png 217 112 322 248
+./pre_img\Fahad Sultan\frame21.png 220 116 326 250
+./pre_img\Fahad Sultan\frame22.png 220 113 331 255
+./pre_img\Fahad Sultan\frame23.png 218 116 329 255
+./pre_img\Fahad Sultan\frame24.png 219 110 332 255
+./pre_img\Fahad Sultan\frame25.png 227 113 347 267
+./pre_img\Fahad Sultan\frame26.png 227 120 346 271
+./pre_img\Fahad Sultan\frame27.png 226 125 346 278
+./pre_img\Fahad Sultan\frame28.png 229 116 346 266
+./pre_img\Fahad Sultan\frame29.png 228 116 347 263
+./pre_img\Fahad Sultan\frame3.png 230 138 344 275
+./pre_img\Fahad Sultan\frame30.png 236 119 351 260
+./pre_img\Fahad Sultan\frame31.png 234 125 351 274
+./pre_img\Fahad Sultan\frame32.png 225 122 349 279
+./pre_img\Fahad Sultan\frame33.png 215 131 344 289
+./pre_img\Fahad Sultan\frame34.png 226 115 349 273
+./pre_img\Fahad Sultan\frame35.png 220 105 342 259
+./pre_img\Fahad Sultan\frame36.png 213 113 328 258
+./pre_img\Fahad Sultan\frame37.png 215 122 326 263
+./pre_img\Fahad Sultan\frame38.png 222 126 339 280
+./pre_img\Fahad Sultan\frame39.png 229 121 348 273
+./pre_img\Fahad Sultan\frame4.png 230 138 344 278
+./pre_img\Fahad Sultan\frame40.png 236 116 351 258
+./pre_img\Fahad Sultan\frame41.png 241 116 347 250
+./pre_img\Fahad Sultan\frame42.png 245 124 344 245
+./pre_img\Fahad Sultan\frame43.png 232 122 342 263
+./pre_img\Fahad Sultan\frame44.png 237 134 348 273
+./pre_img\Fahad Sultan\frame45.png 235 125 348 269
+./pre_img\Fahad Sultan\frame46.png 239 126 344 257
+./pre_img\Fahad Sultan\frame47.png 241 122 344 255
+./pre_img\Fahad Sultan\frame48.png 221 121 326 257
+./pre_img\Fahad Sultan\frame49.png 213 124 311 256
+./pre_img\Fahad Sultan\frame5.png 229 138 344 279
+./pre_img\Fahad Sultan\frame6.png 234 138 347 278
+./pre_img\Fahad Sultan\frame7.png 218 117 332 262
+./pre_img\Fahad Sultan\frame8.png 223 118 338 260
+./pre_img\Fahad Sultan\frame9.png 240 113 351 256
+./pre_img\Hasher Ahmed\frame0.png 289 140 415 296
+./pre_img\Hasher Ahmed\frame1.png 286 140 418 303
+./pre_img\Hasher Ahmed\frame10.png 288 144 416 302
+./pre_img\Hasher Ahmed\frame11.png 301 147 422 300
+./pre_img\Hasher Ahmed\frame12.png 296 141 418 296
+./pre_img\Hasher Ahmed\frame13.png 278 137 406 295
+./pre_img\Hasher Ahmed\frame14.png 275 141 402 294
+./pre_img\Hasher Ahmed\frame15.png 280 143 406 298
+./pre_img\Hasher Ahmed\frame16.png 283 143 407 294
+./pre_img\Hasher Ahmed\frame17.png 277 140 404 298
+./pre_img\Hasher Ahmed\frame18.png 278 140 406 297
+./pre_img\Hasher Ahmed\frame19.png 274 139 404 299
+./pre_img\Hasher Ahmed\frame2.png 286 140 418 301
+./pre_img\Hasher Ahmed\frame20.png 282 144 407 294
+./pre_img\Hasher Ahmed\frame21.png 281 144 406 295
+./pre_img\Hasher Ahmed\frame22.png 276 141 405 300
+./pre_img\Hasher Ahmed\frame23.png 279 137 408 299
+./pre_img\Hasher Ahmed\frame24.png 282 142 409 295
+./pre_img\Hasher Ahmed\frame25.png 280 140 406 302
+./pre_img\Hasher Ahmed\frame26.png 282 136 407 292
+./pre_img\Hasher Ahmed\frame27.png 284 133 412 281
+./pre_img\Hasher Ahmed\frame28.png 279 135 406 284
+./pre_img\Hasher Ahmed\frame29.png 270 135 398 291
+./pre_img\Hasher Ahmed\frame3.png 288 141 418 302
+./pre_img\Hasher Ahmed\frame30.png 274 135 400 283
+./pre_img\Hasher Ahmed\frame31.png 271 133 398 287
+./pre_img\Hasher Ahmed\frame32.png 270 136 393 288
+./pre_img\Hasher Ahmed\frame33.png 261 135 391 297
+./pre_img\Hasher Ahmed\frame34.png 253 136 384 293
+./pre_img\Hasher Ahmed\frame35.png 264 133 392 287
+./pre_img\Hasher Ahmed\frame36.png 264 134 394 289
+./pre_img\Hasher Ahmed\frame37.png 265 140 395 299
+./pre_img\Hasher Ahmed\frame38.png 281 137 405 298
+./pre_img\Hasher Ahmed\frame39.png 286 137 406 293
+./pre_img\Hasher Ahmed\frame4.png 289 141 419 301
+./pre_img\Hasher Ahmed\frame40.png 288 138 412 299
+./pre_img\Hasher Ahmed\frame41.png 273 139 395 299
+./pre_img\Hasher Ahmed\frame42.png 258 126 386 288
+./pre_img\Hasher Ahmed\frame43.png 263 132 391 283
+./pre_img\Hasher Ahmed\frame44.png 265 132 394 291
+./pre_img\Hasher Ahmed\frame45.png 263 136 393 292
+./pre_img\Hasher Ahmed\frame46.png 262 139 391 292
+./pre_img\Hasher Ahmed\frame47.png 265 139 392 293
+./pre_img\Hasher Ahmed\frame48.png 264 132 392 291
+./pre_img\Hasher Ahmed\frame49.png 258 131 393 301
+./pre_img\Hasher Ahmed\frame5.png 290 140 420 299
+./pre_img\Hasher Ahmed\frame6.png 292 141 421 301
+./pre_img\Hasher Ahmed\frame7.png 283 128 414 288
+./pre_img\Hasher Ahmed\frame8.png 282 129 407 283
+./pre_img\Hasher Ahmed\frame9.png 290 139 415 286
+./pre_img\Junaid Mazhar\frame0.png 234 201 361 352
+./pre_img\Junaid Mazhar\frame1.png 202 194 343 363
+./pre_img\Junaid Mazhar\frame10.png 211 174 335 314
+./pre_img\Junaid Mazhar\frame11.png 210 175 325 308
+./pre_img\Junaid Mazhar\frame12.png 204 200 336 362
+./pre_img\Junaid Mazhar\frame13.png 212 201 342 359
+./pre_img\Junaid Mazhar\frame14.png 204 175 333 329
+./pre_img\Junaid Mazhar\frame15.png 219 190 346 337
+./pre_img\Junaid Mazhar\frame16.png 224 195 351 347
+./pre_img\Junaid Mazhar\frame17.png 231 201 361 356
+./pre_img\Junaid Mazhar\frame18.png 198 195 331 351
+./pre_img\Junaid Mazhar\frame19.png 195 188 332 349
+./pre_img\Junaid Mazhar\frame2.png 239 198 372 358
+./pre_img\Junaid Mazhar\frame20.png 192 192 324 354
+./pre_img\Junaid Mazhar\frame21.png 212 183 340 342
+./pre_img\Junaid Mazhar\frame22.png 226 193 356 349
+./pre_img\Junaid Mazhar\frame23.png 202 189 331 336
+./pre_img\Junaid Mazhar\frame24.png 195 183 329 344
+./pre_img\Junaid Mazhar\frame25.png 194 222 326 386
+./pre_img\Junaid Mazhar\frame26.png 189 241 327 408
+./pre_img\Junaid Mazhar\frame27.png 170 217 317 391
+./pre_img\Junaid Mazhar\frame28.png 184 190 312 341
+./pre_img\Junaid Mazhar\frame29.png 210 187 343 348
+./pre_img\Junaid Mazhar\frame3.png 214 190 353 347
+./pre_img\Junaid Mazhar\frame30.png 226 185 354 345
+./pre_img\Junaid Mazhar\frame31.png 192 184 309 332
+./pre_img\Junaid Mazhar\frame32.png 249 184 368 340
+./pre_img\Junaid Mazhar\frame33.png 209 189 339 347
+./pre_img\Junaid Mazhar\frame34.png 201 189 345 367
+./pre_img\Junaid Mazhar\frame35.png 199 202 348 378
+./pre_img\Junaid Mazhar\frame36.png 207 198 358 380
+./pre_img\Junaid Mazhar\frame37.png 207 193 355 371
+./pre_img\Junaid Mazhar\frame38.png 208 195 352 370
+./pre_img\Junaid Mazhar\frame39.png 202 196 346 367
+./pre_img\Junaid Mazhar\frame4.png 213 208 348 370
+./pre_img\Junaid Mazhar\frame40.png 201 193 348 369
+./pre_img\Junaid Mazhar\frame41.png 202 194 352 379
+./pre_img\Junaid Mazhar\frame42.png 202 192 348 371
+./pre_img\Junaid Mazhar\frame43.png 226 196 369 371
+./pre_img\Junaid Mazhar\frame44.png 224 196 363 363
+./pre_img\Junaid Mazhar\frame45.png 179 183 321 358
+./pre_img\Junaid Mazhar\frame46.png 200 194 345 365
+./pre_img\Junaid Mazhar\frame47.png 202 196 348 369
+./pre_img\Junaid Mazhar\frame48.png 201 200 350 376
+./pre_img\Junaid Mazhar\frame49.png 205 196 355 378
+./pre_img\Junaid Mazhar\frame5.png 213 192 351 353
+./pre_img\Junaid Mazhar\frame6.png 210 195 348 358
+./pre_img\Junaid Mazhar\frame7.png 211 200 342 358
+./pre_img\Junaid Mazhar\frame8.png 220 204 351 361
+./pre_img\Junaid Mazhar\frame9.png 199 185 325 340
+./pre_img\Sabih Ahmed\frame0.png 280 171 409 326
+./pre_img\Sabih Ahmed\frame1.png 284 162 416 326
+./pre_img\Sabih Ahmed\frame10.png 277 158 405 309
+./pre_img\Sabih Ahmed\frame11.png 276 156 404 310
+./pre_img\Sabih Ahmed\frame12.png 275 157 403 311
+./pre_img\Sabih Ahmed\frame13.png 275 158 402 310
+./pre_img\Sabih Ahmed\frame14.png 277 157 405 309
+./pre_img\Sabih Ahmed\frame15.png 276 157 405 313
+./pre_img\Sabih Ahmed\frame16.png 275 155 405 312
+./pre_img\Sabih Ahmed\frame17.png 273 154 405 312
+./pre_img\Sabih Ahmed\frame18.png 273 155 404 320
+./pre_img\Sabih Ahmed\frame19.png 276 157 404 310
+./pre_img\Sabih Ahmed\frame2.png 285 140 406 279
+./pre_img\Sabih Ahmed\frame20.png 276 156 405 312
+./pre_img\Sabih Ahmed\frame21.png 273 155 399 304
+./pre_img\Sabih Ahmed\frame22.png 270 154 401 310
+./pre_img\Sabih Ahmed\frame23.png 270 155 403 319
+./pre_img\Sabih Ahmed\frame24.png 273 162 401 315
+./pre_img\Sabih Ahmed\frame25.png 275 160 404 319
+./pre_img\Sabih Ahmed\frame26.png 273 159 404 319
+./pre_img\Sabih Ahmed\frame27.png 274 159 404 319
+./pre_img\Sabih Ahmed\frame28.png 272 157 405 321
+./pre_img\Sabih Ahmed\frame29.png 277 159 404 311
+./pre_img\Sabih Ahmed\frame3.png 285 152 415 307
+./pre_img\Sabih Ahmed\frame30.png 279 160 404 310
+./pre_img\Sabih Ahmed\frame31.png 279 161 405 310
+./pre_img\Sabih Ahmed\frame32.png 277 157 404 311
+./pre_img\Sabih Ahmed\frame33.png 277 158 405 311
+./pre_img\Sabih Ahmed\frame34.png 276 158 403 309
+./pre_img\Sabih Ahmed\frame35.png 271 137 404 293
+./pre_img\Sabih Ahmed\frame36.png 268 138 390 283
+./pre_img\Sabih Ahmed\frame37.png 300 153 428 317
+./pre_img\Sabih Ahmed\frame38.png 279 166 402 317
+./pre_img\Sabih Ahmed\frame39.png 280 155 392 287
+./pre_img\Sabih Ahmed\frame4.png 279 162 410 324
+./pre_img\Sabih Ahmed\frame40.png 282 146 399 293
+./pre_img\Sabih Ahmed\frame41.png 283 147 402 297
+./pre_img\Sabih Ahmed\frame42.png 279 157 393 293
+./pre_img\Sabih Ahmed\frame43.png 276 150 386 282
+./pre_img\Sabih Ahmed\frame44.png 322 145 423 280
+./pre_img\Sabih Ahmed\frame45.png 288 149 391 282
+./pre_img\Sabih Ahmed\frame46.png 282 151 387 286
+./pre_img\Sabih Ahmed\frame47.png 304 152 425 304
+./pre_img\Sabih Ahmed\frame48.png 288 146 402 281
+./pre_img\Sabih Ahmed\frame49.png 289 149 400 278
+./pre_img\Sabih Ahmed\frame5.png 247 180 364 334
+./pre_img\Sabih Ahmed\frame6.png 267 179 406 339
+./pre_img\Sabih Ahmed\frame7.png 275 157 404 314
+./pre_img\Sabih Ahmed\frame8.png 278 158 405 317
+./pre_img\Sabih Ahmed\frame9.png 277 157 404 311
+./pre_img\Saqib Arsalan\frame0.png 199 154 342 338
+./pre_img\Saqib Arsalan\frame1.png 196 149 344 339
+./pre_img\Saqib Arsalan\frame10.png 206 170 356 359
+./pre_img\Saqib Arsalan\frame11.png 192 163 341 354
+./pre_img\Saqib Arsalan\frame12.png 187 166 338 353
+./pre_img\Saqib Arsalan\frame13.png 204 147 344 314
+./pre_img\Saqib Arsalan\frame14.png 203 148 342 308
+./pre_img\Saqib Arsalan\frame15.png 206 155 340 313
+./pre_img\Saqib Arsalan\frame16.png 202 156 348 337
+./pre_img\Saqib Arsalan\frame17.png 202 163 345 341
+./pre_img\Saqib Arsalan\frame18.png 186 162 330 353
+./pre_img\Saqib Arsalan\frame19.png 201 165 348 348
+./pre_img\Saqib Arsalan\frame2.png 230 159 372 339
+./pre_img\Saqib Arsalan\frame20.png 213 165 358 346
+./pre_img\Saqib Arsalan\frame21.png 208 150 351 331
+./pre_img\Saqib Arsalan\frame22.png 199 147 341 324
+./pre_img\Saqib Arsalan\frame23.png 198 169 342 358
+./pre_img\Saqib Arsalan\frame24.png 190 159 335 350
+./pre_img\Saqib Arsalan\frame25.png 181 160 324 350
+./pre_img\Saqib Arsalan\frame26.png 185 163 327 349
+./pre_img\Saqib Arsalan\frame27.png 199 173 348 356
+./pre_img\Saqib Arsalan\frame28.png 192 206 344 384
+./pre_img\Saqib Arsalan\frame29.png 190 190 341 381
+./pre_img\Saqib Arsalan\frame3.png 199 156 346 346
+./pre_img\Saqib Arsalan\frame30.png 189 203 346 398
+./pre_img\Saqib Arsalan\frame31.png 156 165 298 346
+./pre_img\Saqib Arsalan\frame32.png 213 165 361 354
+./pre_img\Saqib Arsalan\frame33.png 210 176 358 365
+./pre_img\Saqib Arsalan\frame34.png 209 185 360 373
+./pre_img\Saqib Arsalan\frame35.png 223 188 370 369
+./pre_img\Saqib Arsalan\frame36.png 199 173 346 361
+./pre_img\Saqib Arsalan\frame37.png 204 153 342 331
+./pre_img\Saqib Arsalan\frame38.png 167 158 302 329
+./pre_img\Saqib Arsalan\frame39.png 206 161 353 346
+./pre_img\Saqib Arsalan\frame4.png 199 143 337 319
+./pre_img\Saqib Arsalan\frame40.png 206 165 351 350
+./pre_img\Saqib Arsalan\frame41.png 208 159 354 344
+./pre_img\Saqib Arsalan\frame42.png 214 159 354 340
+./pre_img\Saqib Arsalan\frame43.png 205 161 356 348
+./pre_img\Saqib Arsalan\frame44.png 198 162 345 352
+./pre_img\Saqib Arsalan\frame45.png 192 186 351 380
+./pre_img\Saqib Arsalan\frame46.png 197 172 351 365
+./pre_img\Saqib Arsalan\frame47.png 201 172 355 367
+./pre_img\Saqib Arsalan\frame48.png 203 175 357 370
+./pre_img\Saqib Arsalan\frame49.png 203 168 358 368
+./pre_img\Saqib Arsalan\frame5.png 194 152 337 335
+./pre_img\Saqib Arsalan\frame6.png 173 165 317 350
+./pre_img\Saqib Arsalan\frame7.png 194 168 343 355
+./pre_img\Saqib Arsalan\frame8.png 180 213 342 405
+./pre_img\Saqib Arsalan\frame9.png 183 204 342 401
+./pre_img\Usama Sohail\frame0.png 258 155 395 332
+./pre_img\Usama Sohail\frame1.png 256 153 393 333
+./pre_img\Usama Sohail\frame10.png 272 157 405 337
+./pre_img\Usama Sohail\frame11.png 264 148 398 329
+./pre_img\Usama Sohail\frame12.png 246 152 373 325
+./pre_img\Usama Sohail\frame13.png 232 141 375 325
+./pre_img\Usama Sohail\frame14.png 237 149 365 328
+./pre_img\Usama Sohail\frame15.png 255 154 388 331
+./pre_img\Usama Sohail\frame16.png 262 149 392 323
+./pre_img\Usama Sohail\frame17.png 264 145 393 320
+./pre_img\Usama Sohail\frame18.png 248 160 369 324
+./pre_img\Usama Sohail\frame19.png 251 148 387 337
+./pre_img\Usama Sohail\frame2.png 261 154 395 330
+./pre_img\Usama Sohail\frame20.png 261 156 404 345
+./pre_img\Usama Sohail\frame21.png 255 149 387 328
+./pre_img\Usama Sohail\frame22.png 256 150 393 335
+./pre_img\Usama Sohail\frame23.png 235 189 340 318
+./pre_img\Usama Sohail\frame24.png 250 196 343 299
+./pre_img\Usama Sohail\frame25.png 249 203 347 328
+./pre_img\Usama Sohail\frame26.png 252 203 352 342
+./pre_img\Usama Sohail\frame27.png 250 201 353 336
+./pre_img\Usama Sohail\frame28.png 252 203 353 335
+./pre_img\Usama Sohail\frame29.png 260 203 358 333
+./pre_img\Usama Sohail\frame3.png 256 152 390 328
+./pre_img\Usama Sohail\frame30.png 267 205 364 338
+./pre_img\Usama Sohail\frame31.png 255 196 357 332
+./pre_img\Usama Sohail\frame32.png 247 200 346 329
+./pre_img\Usama Sohail\frame33.png 247 195 349 323
+./pre_img\Usama Sohail\frame34.png 250 198 351 331
+./pre_img\Usama Sohail\frame35.png 259 215 363 348
+./pre_img\Usama Sohail\frame36.png 261 223 358 346
+./pre_img\Usama Sohail\frame37.png 247 208 354 337
+./pre_img\Usama Sohail\frame38.png 248 210 355 339
+./pre_img\Usama Sohail\frame39.png 270 202 369 334
+./pre_img\Usama Sohail\frame4.png 254 149 386 322
+./pre_img\Usama Sohail\frame40.png 273 201 371 334
+./pre_img\Usama Sohail\frame41.png 260 202 360 335
+./pre_img\Usama Sohail\frame42.png 252 207 349 334
+./pre_img\Usama Sohail\frame43.png 254 201 354 332
+./pre_img\Usama Sohail\frame44.png 259 198 358 331
+./pre_img\Usama Sohail\frame45.png 280 195 377 315
+./pre_img\Usama Sohail\frame46.png 286 196 381 319
+./pre_img\Usama Sohail\frame47.png 283 196 382 321
+./pre_img\Usama Sohail\frame48.png 281 194 381 321
+./pre_img\Usama Sohail\frame49.png 282 197 379 327
+./pre_img\Usama Sohail\frame5.png 257 151 388 324
+./pre_img\Usama Sohail\frame6.png 256 147 387 325
+./pre_img\Usama Sohail\frame7.png 257 144 390 327
+./pre_img\Usama Sohail\frame8.png 271 150 402 327
+./pre_img\Usama Sohail\frame9.png 287 163 417 336
+./pre_img\Yousuf Jusani\frame0.png 296 137 439 315
+./pre_img\Yousuf Jusani\frame1.png 285 129 410 299
+./pre_img\Yousuf Jusani\frame10.png 285 153 433 324
+./pre_img\Yousuf Jusani\frame11.png 292 156 435 323
+./pre_img\Yousuf Jusani\frame12.png 306 134 454 314
+./pre_img\Yousuf Jusani\frame13.png 309 131 454 309
+./pre_img\Yousuf Jusani\frame14.png 315 131 457 313
+./pre_img\Yousuf Jusani\frame15.png 318 134 460 316
+./pre_img\Yousuf Jusani\frame16.png 323 136 462 307
+./pre_img\Yousuf Jusani\frame17.png 315 133 456 310
+./pre_img\Yousuf Jusani\frame18.png 315 134 461 313
+./pre_img\Yousuf Jusani\frame19.png 315 131 460 311
+./pre_img\Yousuf Jusani\frame2.png 320 130 461 305
+./pre_img\Yousuf Jusani\frame20.png 322 131 469 309
+./pre_img\Yousuf Jusani\frame21.png 317 133 459 307
+./pre_img\Yousuf Jusani\frame22.png 313 134 454 307
+./pre_img\Yousuf Jusani\frame23.png 308 136 451 314
+./pre_img\Yousuf Jusani\frame24.png 305 134 446 313
+./pre_img\Yousuf Jusani\frame25.png 298 125 445 302
+./pre_img\Yousuf Jusani\frame26.png 287 136 430 307
+./pre_img\Yousuf Jusani\frame27.png 290 140 433 313
+./pre_img\Yousuf Jusani\frame28.png 289 142 433 312
+./pre_img\Yousuf Jusani\frame29.png 292 132 433 309
+./pre_img\Yousuf Jusani\frame3.png 346 130 476 304
+./pre_img\Yousuf Jusani\frame30.png 285 138 432 309
+./pre_img\Yousuf Jusani\frame31.png 296 132 439 308
+./pre_img\Yousuf Jusani\frame32.png 293 136 437 312
+./pre_img\Yousuf Jusani\frame33.png 267 127 394 298
+./pre_img\Yousuf Jusani\frame34.png 259 124 378 296
+./pre_img\Yousuf Jusani\frame35.png 272 128 417 309
+./pre_img\Yousuf Jusani\frame36.png 311 123 441 291
+./pre_img\Yousuf Jusani\frame37.png 349 123 470 298
+./pre_img\Yousuf Jusani\frame38.png 272 132 416 298
+./pre_img\Yousuf Jusani\frame39.png 261 139 415 315
+./pre_img\Yousuf Jusani\frame4.png 299 134 442 307
+./pre_img\Yousuf Jusani\frame40.png 260 141 413 319
+./pre_img\Yousuf Jusani\frame41.png 262 143 411 314
+./pre_img\Yousuf Jusani\frame42.png 268 135 419 315
+./pre_img\Yousuf Jusani\frame43.png 273 134 422 311
+./pre_img\Yousuf Jusani\frame44.png 268 137 415 310
+./pre_img\Yousuf Jusani\frame45.png 250 135 403 315
+./pre_img\Yousuf Jusani\frame46.png 256 147 406 316
+./pre_img\Yousuf Jusani\frame47.png 257 146 409 316
+./pre_img\Yousuf Jusani\frame48.png 255 145 405 319
+./pre_img\Yousuf Jusani\frame49.png 250 142 404 320
+./pre_img\Yousuf Jusani\frame5.png 299 136 441 311
+./pre_img\Yousuf Jusani\frame6.png 300 120 443 290
+./pre_img\Yousuf Jusani\frame7.png 312 131 459 306
+./pre_img\Yousuf Jusani\frame8.png 303 132 449 307
+./pre_img\Yousuf Jusani\frame9.png 291 133 444 307
