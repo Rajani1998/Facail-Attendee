@@ -1,0 +1,14 @@
+1.	admin adds a student  (fa.com/createstudent?name="dsd".....)
+2.	admin adds a teacher  (fa.com/createstudent?name="dsd".....)
+3.	admin adds a courses  (fa.com/createstudent?name="dsd".....)
+4.	admin alots teachers to a courses  (fa.com/createstudent?name="dsd".....)
+5.	admin alots register courses of specific user  (fa.com/createstudent?name="dsd".....)
+
+
+6.	teacher views: all courses  with button view all student in tht course	(fa.com/viewcourse?teachername="6".....)
+7.	teacher views: all student and thier attendenace with button to add new 
+8.	techer will cnfirm attendance
+9.	teacher can view  summary of specific attendence sheet
+
+10.	student view attendence
+11.	mark attendence
